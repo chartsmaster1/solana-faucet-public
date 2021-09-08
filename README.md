@@ -1,0 +1,1 @@
+This is a single page react web application that serves as a Solana faucet. You can test its functionality here. [Solana Faucet](https://solana-faucet.web.app)
